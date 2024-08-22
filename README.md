@@ -1,2 +1,2 @@
 # notes
-Study notes and daily journals
+Study notes
